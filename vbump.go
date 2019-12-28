@@ -2,7 +2,7 @@ package main
 
 const (
 	// Current version
-	Version = "v3.0.0"
+	Version = "v3.1.0"
 )
 
 func main() {
